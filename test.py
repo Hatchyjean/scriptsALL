@@ -1,3 +1,1 @@
-print('Hello World')
-
-print('My name in John')
+print("Hello World")
